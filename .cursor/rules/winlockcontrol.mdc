@@ -1,0 +1,6 @@
+---
+description: WinLockControl standalone Windows 11 lock experience
+alwaysApply: true
+---
+
+Read AGENTS.md, docs/PRODUCT.md, docs/SECURITY.md, docs/IMPLEMENTATION.md, and docs/TEST-MATRIX.md before changes. Phase 0 is documentation-only. No native Windows security changes or input interception without owner authorization. Never describe Stage 1 as secure Windows locking.

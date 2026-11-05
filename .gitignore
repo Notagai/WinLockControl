@@ -1,0 +1,32 @@
+# Future Windows/.NET build output
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.msi
+*.msix
+*.appx
+*.nupkg
+
+# Future frontend build output
+node_modules/
+dist/
+build/
+coverage/
+.env
+.env.*
+!.env.example
+
+# Local credentials, logs and session artifacts
+*.log
+*.dmp
+*.tmp
+*.bak
+local-config/
+secrets/
+test-evidence/private/
